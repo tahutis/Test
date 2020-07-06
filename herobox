@@ -1,0 +1,20 @@
+<div class="herobox">
+<div class="herobox_sliderbox">
+	<div>{@$__wcf->getBoxHandler()->getBoxByIdentifier('de.darkwood-studios.wcf.slideshow.box')->render()}</div>
+</div>
+
+<div class="herobox_welcome">
+	<h5>Herzlich Willkommen bei Tahutis Sektor!</h5>
+</div>
+
+<div class="herobox_status">
+	<div>{@$__wcf->getBoxHandler()->getBoxByIdentifier('com.cls-design.wcf.box.status')->render()}</div>
+</div>
+	
+<div class="hero_buttons">
+	<a href="https://tahutis-sektor.de/informationen/uebermich/" class="hero_button-1"><p>Über mich</p></a>
+	<p class="hero_button-2">Hilfebereich</p>
+	<p class="hero_button-3">Partner</p>
+</div>
+
+</div>
